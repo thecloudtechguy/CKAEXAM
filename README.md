@@ -15,7 +15,7 @@ The purpose of CKA(Certified Kubernetes Administrator) is to assure the applican
 
 CKAD exams make sure that the applicant can design, build, configure and expose native cloud applications for Kubernetes whereas CKA exam requires knowledge of Kubernetes internals such as etcd, tls bootstrap, and kubelet.
 
-
+https://myblockchainexperts.org/2020/08/27/kubernetes-certification-cka-vs-ckad/
  
 We can’t call CKAD easy because it doesn’t have topics related to cluster administration. Duration of CKA exam is 2 hours whereas the CKAD exam allows 3 hours.
 
@@ -39,3 +39,4 @@ Always use kubectl auto-completion. Not having to copy\paste pod and deployment 
 Get comfortable with vim and terminal. The exam environment is within a Linux terminal, so there is no GUI. It’s very important that you feel comfortable in this environment. Kubectl edit uses vim, and at the very least, basic commands shouldn’t be a problem for you (switch modes, save, copy/paste).
 Use as much documentation as possible. Don’t try to memorize the YAML syntax of Kubernetes objects. For each concept — there is a page with code snippets. You can copy small amounts of code directly from the documentation – it’s a very powerful capability.
 Hope, this helps you to prepare for both the exams.
+https://myblockchainexperts.org/2020/08/27/kubernetes-certification-cka-vs-ckad/
