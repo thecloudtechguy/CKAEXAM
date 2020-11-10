@@ -1,5 +1,5 @@
 # CKAEXAM
-his post will discuss the two most important certificates of Kubernetes. CKA which stands for Certified Kubernetes Administrator and CKAD which stands for Certified Kubernetes Application Developer. We will start by discussing what is common in these two exams followed by how they both are different and how you can prepare to clear these exams. So, without any delay let’s get started.
+This post will discuss the two most important certificates of Kubernetes. CKA which stands for Certified Kubernetes Administrator and CKAD which stands for Certified Kubernetes Application Developer. We will start by discussing what is common in these two exams followed by how they both are different and how you can prepare to clear these exams. So, without any delay let’s get started.
 
 Become a Certified Kubernetes Administrator (CKA)!
 
